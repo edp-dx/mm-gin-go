@@ -1,0 +1,1 @@
+1. Application mm-gin-go has been successfully deployed!!
